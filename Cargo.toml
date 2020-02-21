@@ -1,0 +1,15 @@
+[package]
+name = "jinceapp"
+version = "0.1.0"
+authors = ["nighteba <jlmuteba47@yahoo.fr>"]
+edition = "2018"
+
+[lib]
+name ="rpg_lib"
+path ="src/lib.rs"
+
+
+
+
+[dependencies]
+rand ="0.6.0"
